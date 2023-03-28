@@ -20,9 +20,9 @@
       "U":"",
       "isT":false,
       "isJ":false,
-      "Area":[],
-	  "Event":[],
-	  "ID":[]
+      "Area":["PH","IN","BR","HK"],
+	  "Event":["adj_complete_registration","adj_purchase1","adj_purchase1_value","deposit","depositSubmit","deposit-success","firstDeposit","firstDepositArrival","first-deposit-success","firstOpen","first-recharge-success","register","registerSubmit","register-success","signup-success","withdraw"],
+	  "ID":["kxcpf2","e79xjw","gnkz6s","yz0dbl","rbwabq","buocid","ooz1tp","aa4hxl","7tdd27","a0ycch","8ej5jn","5vr42g","djrl9k","wuixx2","bs21rk","8fuodt"]
     },
      "D":{
       "U":"",
